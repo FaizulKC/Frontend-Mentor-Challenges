@@ -1,2 +1,2 @@
 # Frontend-Mentor-Challenges
-This repo is for Frontend Mentor Challenges.
+QR-CODE-COMPONENT LIVE LINK: https://faizulkc.github.io/Frontend-Mentor-Challenges/qr-code-component/
